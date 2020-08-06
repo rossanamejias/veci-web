@@ -1,0 +1,35 @@
+footer{
+  background: #F5F5F5;
+}
+.footer-links a {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: #000000;
+}
+.footer-links a:hover, .footer-seguridad a:hover {
+  opacity: 0.5;
+}
+
+hr{
+  border: 1px solid #C4C4C4;
+}
+
+.footer-copy{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+}
+
+.footer-seguridad > ul{
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.footer-seguridad a{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: #000000;
+}

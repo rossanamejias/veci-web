@@ -1,0 +1,53 @@
+@media (max-width: 985px) { 
+    .servicios{
+        padding: 40px 0 0 0;
+    }
+    
+    .bg-navbar{
+        background: #302EA7 !important;
+    }
+
+    .nav-link, .navbar-brand{
+        color: white;
+    }
+
+    #bgColumn-left {
+        padding: 100px 30px 20px 30px;
+        text-align: center;
+    }
+    h1{
+        font-size: 38px;
+        line-height : 35px;
+    }
+
+    p{
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .text-servicios{
+        padding-left: 20px;
+    }
+
+    h2{
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .footer-seguridad > ul{
+        padding: 0px;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 1024px) and (orientation:landscape) {
+    h1{
+        font-size: 45px;
+        line-height: 50px;    
+    }
+
+    .text-unete{
+        color: #011627;
+    }
+}

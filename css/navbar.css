@@ -1,0 +1,33 @@
+.navbar{
+    background: transparent;
+}
+
+.navbar-brand{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 59px;
+  color: #011627;
+}
+
+.navbar-nav > li{
+  padding: 0 5px;
+  margin: 0 5px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 23px;
+}
+
+.nav-link{
+  color: #011627;
+}
+
+.bg-navbar{
+    background: transparent !important;
+}
+
+.bg-navbar.scrolled{
+    background: #302EA7 !important;
+    color: white;
+}

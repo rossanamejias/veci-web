@@ -1,0 +1,21 @@
+/* style.css */
+@import url("button.css");
+@import url("card.css");
+@import url("footer.css");
+@import url("input.css");
+@import url("navbar.css");
+@import url("section.css");
+@import url("text_bg.css");
+@import url("resposive.css");
+body{
+    height: 100%;
+    background: transparent;
+    color: #011627;
+    font-size: 25px;
+    font-family: 'DM Sans', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
